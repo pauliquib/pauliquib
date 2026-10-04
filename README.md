@@ -15,4 +15,4 @@ Desktopové nástroje, embedded hardware a utilitky pro Linux/KDE.
 
 `Python` `PySide6 / Qt` `C++` `Bash` `STM32 / ESP32` `Godot` `Laravel` `Next.js`
 
-🌐 **Web:** [svec-elektro.cz](https://svec-elektro.cz)
+🌐 **Web:** [svec-elektro.cz](https://svec-elektro.cz) · [sencurio.com](https://sencurio.com)
