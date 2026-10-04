@@ -50,7 +50,7 @@ Monorepo pro asistované bydlení a bezpečnostní přehled v domácnosti (AAL /
 Desktopové GUI/TUI pracovní prostředí pro Fedoru: kiosk shell (Wayland), plugin API, lokální AI agent, správa statického webu svec-elektro.cz. Nástroj pro vlastní denní provoz, ne produkt pro distribuci.
 `Python` `PySide6/Qt` `JavaScript` `Rust`
 
-<img src="assets/projects/svec-studio-splash.png" width="32%"> <img src="assets/projects/svec-studio-desktop.png" width="32%"> <img src="assets/projects/svec-studio-tui-os.png" width="32%">
+<img src="assets/projects/svec-studio-splash.png" width="24%"> <img src="assets/projects/svec-studio-desktop.png" width="24%"> <img src="assets/projects/svec-studio-tui-os.png" width="24%"> <img src="assets/projects/svec-studio-pdf-viewer.png" width="24%">
 
 ### PRE2MULTI
 Nezávislý multiplayer engine (Godot 4) nad fyzikou klasické DOS plošinovky, LAN deathmatch pro 2–4 hráče. *BYOG (Bring Your Own Game)* — repozitář neobsahuje originální herní assety.
