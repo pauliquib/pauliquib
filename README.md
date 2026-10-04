@@ -66,7 +66,7 @@ STM32 Nucleo-H753ZI jako náhradní řídicí jednotka průmyslové 24V I/O desk
 
 ## Jazyky
 
-Souhrn přes **všechny** repozitáře, veřejné i privátní (`stone-and-clay`, `HardCoreMode`, `infoflowlab`, `Vlnky`, `Fedora-SecuriTUI`, `k3x020-nucleo`, `svec-studio`, `PRE2MULTI`, `sencurio-developer`) podle bajtů kódu dle GitHubu — žádný obsah souborů. U embedded projektů jsem vendor knihovny (STM32 HAL/CMSIS, ESP-IDF managed components, Three.js bundle) vyřadil pomocí `.gitattributes` (`linguist-vendored`), ať graf odpovídá skutečně napsanému kódu, ne nalinkovaným SDK:
+Souhrn přes **všechny** repozitáře, veřejné i privátní (`stone-and-clay`, `HardCoreMode`, `infoflowlab`, `Vlnky`, `Fedora-SecuriTUI`, `k3x020-nucleo`, `svec-studio`, `PRE2MULTI`, `sencurio-developer`) podle bajtů kódu dle GitHubu — žádný obsah souborů. Vendor knihovny a third-party addony (STM32 HAL/CMSIS, ESP-IDF managed components, Godot addony, Three.js/floorplan3d JS knihovny) jsem vyřadil pomocí `.gitattributes` (`linguist-vendored`), ať graf odpovídá skutečně napsanému kódu, ne nalinkovaným SDK a pluginům:
 
 ![Jazyky — veřejné i privátní](assets/projects/languages-all.png)
 
