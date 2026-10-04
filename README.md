@@ -1,4 +1,6 @@
-# pauliquib
+# Pavel Švec
+
+<sub>nickname: pauliquib</sub>
 
 Desktopové nástroje, embedded hardware a utilitky pro Linux/KDE.
 *Desktop tools, embedded hardware and Linux/KDE utilities — mostly in Czech.*
