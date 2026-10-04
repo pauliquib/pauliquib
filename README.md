@@ -61,9 +61,13 @@ Stručný přehled bez citlivých detailů (bez credentials, interních IP adres
 
 ## Jazyky
 
-Souhrn přes všechny veřejné repozitáře (`stone-and-clay`, `HardCoreMode`, `infoflowlab`, `Vlnky`, `Fedora-SecuriTUI`) podle bajtů kódu dle GitHubu. Privátní repozitáře (embedded C s vendor HAL knihovnami) by poměr jen zkreslily, proto nejsou v grafu zahrnuté.
+Souhrn přes všechny veřejné repozitáře (`stone-and-clay`, `HardCoreMode`, `infoflowlab`, `Vlnky`, `Fedora-SecuriTUI`) podle bajtů kódu dle GitHubu.
 
 ![Jazyky](assets/projects/languages.svg)
+
+A souhrn přes **všechny** repozitáře včetně privátních (`k3x020-nucleo`, `svec-studio`, `PRE2MULTI`, `sencurio-developer`) — opět jen bajty kódu dle jazyka, žádný obsah souborů. U embedded projektů jsem vendor knihovny (STM32 HAL/CMSIS, ESP-IDF managed components) vyřadil pomocí `.gitattributes` (`linguist-vendored`), ať graf odpovídá skutečně napsanému kódu, ne nalinkovaným SDK:
+
+![Jazyky — veřejné i privátní](assets/projects/languages-all.svg)
 
 ## Technologie
 

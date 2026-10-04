@@ -1,0 +1,49 @@
+<svg width="1000" height="280" viewBox="0 0 1000 280" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="1000" height="280" rx="12" fill="#0d1117"/>
+<text x="0" y="28" fill="#e6edf3" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Jazyky — veřejné i privátní repozitáře celkem</text>
+<defs><clipPath id="barclip2"><rect x="0" y="48" width="1000" height="26" rx="13" ry="13"/></clipPath></defs>
+<g clip-path="url(#barclip2)">
+  <rect x="0.00" y="48" width="492.30" height="26" fill="#3572A5"/>
+  <rect x="492.30" y="48" width="243.84" height="26" fill="#f1e05a"/>
+  <rect x="736.15" y="48" width="124.06" height="26" fill="#00bcd4"/>
+  <rect x="860.20" y="48" width="33.96" height="26" fill="#a8b1bb"/>
+  <rect x="894.16" y="48" width="29.07" height="26" fill="#dea584"/>
+  <rect x="923.23" y="48" width="23.33" height="26" fill="#9b59b6"/>
+  <rect x="946.55" y="48" width="14.53" height="26" fill="#f34b7d"/>
+  <rect x="961.08" y="48" width="13.62" height="26" fill="#e34c26"/>
+  <rect x="974.70" y="48" width="13.16" height="26" fill="#89e051"/>
+  <rect x="987.86" y="48" width="2.80" height="26" fill="#b5835a"/>
+  <rect x="990.66" y="48" width="2.47" height="26" fill="#2e7d32"/>
+  <rect x="993.13" y="48" width="1.72" height="26" fill="#c678dd"/>
+  <rect x="994.85" y="48" width="1.57" height="26" fill="#5c6bc0"/>
+  <rect x="996.42" y="48" width="3.58" height="26" fill="#5c6370"/>
+</g>
+  <circle cx="8" cy="114" r="6" fill="#3572A5"/>
+  <text x="24" y="119" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">Python  49.2%</text>
+  <circle cx="341" cy="114" r="6" fill="#f1e05a"/>
+  <text x="357" y="119" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">JavaScript  24.4%</text>
+  <circle cx="674" cy="114" r="6" fill="#00bcd4"/>
+  <text x="690" y="119" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">GDScript  12.4%</text>
+  <circle cx="8" cy="148" r="6" fill="#a8b1bb"/>
+  <text x="24" y="153" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">C  3.4%</text>
+  <circle cx="341" cy="148" r="6" fill="#dea584"/>
+  <text x="357" y="153" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">Rust  2.9%</text>
+  <circle cx="674" cy="148" r="6" fill="#9b59b6"/>
+  <text x="690" y="153" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">CSS  2.3%</text>
+  <circle cx="8" cy="182" r="6" fill="#f34b7d"/>
+  <text x="24" y="187" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">C++  1.5%</text>
+  <circle cx="341" cy="182" r="6" fill="#e34c26"/>
+  <text x="357" y="187" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">HTML  1.4%</text>
+  <circle cx="674" cy="182" r="6" fill="#89e051"/>
+  <text x="690" y="187" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">Shell  1.3%</text>
+  <circle cx="8" cy="216" r="6" fill="#b5835a"/>
+  <text x="24" y="221" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">Assembly  0.3%</text>
+  <circle cx="341" cy="216" r="6" fill="#2e7d32"/>
+  <text x="357" y="221" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">QML  0.2%</text>
+  <circle cx="674" cy="216" r="6" fill="#c678dd"/>
+  <text x="690" y="221" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">GDShader  0.2%</text>
+  <circle cx="8" cy="250" r="6" fill="#5c6bc0"/>
+  <text x="24" y="255" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">PowerShell  0.2%</text>
+  <circle cx="341" cy="250" r="6" fill="#5c6370"/>
+  <text x="357" y="255" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="16">Ostatní  0.4%</text>
+</svg>
