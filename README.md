@@ -40,34 +40,39 @@ TUI správce diagnostických, bezpečnostních a pentest nástrojů pro Fedora K
 Interní / neveřejné repozitáře — kód, konfigurace a interní dokumentace zůstávají soukromé.
 Stručný přehled bez citlivých detailů (bez credentials, interních IP adres, zákaznických dat apod.):
 
-<img src="assets/projects/sencurio-floorplan.png" width="220" align="right">
-
-**Sencurio** — monorepo pro asistované bydlení a bezpečnostní přehled v domácnosti (AAL / smart home): mmWave radar + ESP32-S3 edge zařízení, Laravel backend, Next.js dashboard, Expo mobilní app a PySide6 desktop monitor. *Není značkováno jako zdravotnický prostředek.*
+### Sencurio
+Monorepo pro asistované bydlení a bezpečnostní přehled v domácnosti (AAL / smart home): mmWave radar + ESP32-S3 edge zařízení, Laravel backend, Next.js dashboard, Expo mobilní app a PySide6 desktop monitor. *Není značkováno jako zdravotnický prostředek.*
 `PHP/Laravel` `TypeScript/Next.js` `Python/PySide6` `ESP-IDF` `MQTT`
 
-<br clear="right">
+<img src="assets/projects/sencurio-device-exploded.png" width="49%"> <img src="assets/projects/sencurio-floorplan3d-dark.png" width="49%">
 
-![Svec Studio](assets/projects/svec-studio-banner.svg)
+### Svec Studio
+Desktopové GUI/TUI pracovní prostředí pro Fedoru: kiosk shell (Wayland), plugin API, lokální AI agent, správa statického webu svec-elektro.cz. Nástroj pro vlastní denní provoz, ne produkt pro distribuci.
+`Python` `PySide6/Qt` `JavaScript` `Rust`
 
-**Svec Studio** — desktopové GUI/TUI pracovní prostředí pro Fedoru: kiosk shell (Wayland), plugin API, lokální AI agent, správa statického webu svec-elektro.cz. Nástroj pro vlastní denní provoz, ne produkt pro distribuci.
+<img src="assets/projects/svec-studio-splash.png" width="32%"> <img src="assets/projects/svec-studio-desktop.png" width="32%"> <img src="assets/projects/svec-studio-tui-os.png" width="32%">
 
-![PRE2MULTI](assets/projects/pre2multi-banner.svg)
+### PRE2MULTI
+Nezávislý multiplayer engine (Godot 4) nad fyzikou klasické DOS plošinovky, LAN deathmatch pro 2–4 hráče. *BYOG (Bring Your Own Game)* — repozitář neobsahuje originální herní assety.
+`GDScript` `Python`
 
-**PRE2MULTI** — nezávislý multiplayer engine (Godot 4) nad fyzikou klasické DOS plošinovky, LAN deathmatch pro 2–4 hráče. *BYOG (Bring Your Own Game)* — repozitář neobsahuje žádné originální herní assety, proto se zde ani neukazují screenshoty s nimi.
+<img src="assets/projects/pre2multi-arena.png" width="70%">
 
-![K3X020 Nucleo](assets/projects/k3x020-banner.svg)
+### K3X020 Nucleo
+STM32 Nucleo-H753ZI jako náhradní řídicí jednotka průmyslové 24V I/O desky — reverse engineering hardwaru pro vlastní dílnu, dokumentace svorek a RE nálezů.
+`C` `STM32 HAL`
 
-**K3X020 Nucleo** — STM32 Nucleo-H753ZI jako náhradní řídicí jednotka průmyslové 24V I/O desky (reverse engineering hardwaru pro vlastní dílnu, dokumentace svorek a nálezů). Repozitář obsahuje fotky desky a interní RE poznámky, proto zůstává neveřejný.
+<img src="assets/projects/k3x020-pcb-horni.jpg" width="49%"> <img src="assets/projects/k3x020-pcb-spodni.jpg" width="49%">
 
 ## Jazyky
 
 Souhrn přes všechny veřejné repozitáře (`stone-and-clay`, `HardCoreMode`, `infoflowlab`, `Vlnky`, `Fedora-SecuriTUI`) podle bajtů kódu dle GitHubu.
 
-![Jazyky](assets/projects/languages.svg)
+![Jazyky](assets/projects/languages.png)
 
 A souhrn přes **všechny** repozitáře včetně privátních (`k3x020-nucleo`, `svec-studio`, `PRE2MULTI`, `sencurio-developer`) — opět jen bajty kódu dle jazyka, žádný obsah souborů. U embedded projektů jsem vendor knihovny (STM32 HAL/CMSIS, ESP-IDF managed components) vyřadil pomocí `.gitattributes` (`linguist-vendored`), ať graf odpovídá skutečně napsanému kódu, ne nalinkovaným SDK:
 
-![Jazyky — veřejné i privátní](assets/projects/languages-all.svg)
+![Jazyky — veřejné i privátní](assets/projects/languages-all.png)
 
 ## Technologie
 
