@@ -12,6 +12,9 @@ Outline SVG icon pack pro Fedoru / KDE Plasma — ~2 350 ikon na variantu, Accen
 <a href="https://github.com/pauliquib/svec-studio-iconpack"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-iconpack/main/screenshots/screenshots-accent.png" width="32%"></a>
 <a href="https://github.com/pauliquib/svec-studio-iconpack"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-iconpack/main/screenshots/screenshots-black-on-light.png" width="32%"></a>
 
+### [Svec Studio Taskbar](https://github.com/pauliquib/svec-studio-taskbar)
+Správce úloh pro KDE panel jen s ikonami, bez pozadí. Ikona pod kurzorem se plynule rozbalí do štítku s názvem okna a sousední ikony uhnou do stran. Je to port lišty aplikací z hlavičky svec-elektro.cz: lepivý výběr nejbližší ikony, plynulé dobíhání podle skutečné délky snímku, připnuté spouštěče a seskupování oken (QML, KDE Plasma 6 widget)
+
 ### [Stone & Clay](https://github.com/pauliquib/stone-and-clay)
 Open-world simulátor vesnice Dukelčice nad reálným katastrem — NPC dialogy, práce, dovednosti, počasí, zvěř, létání (Godot 4.3, GDScript)
 
