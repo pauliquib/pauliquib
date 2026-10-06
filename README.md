@@ -5,6 +5,13 @@ Desktopové nástroje, embedded hardware a utilitky pro Linux/KDE.
 
 ## Veřejné projekty
 
+### [Svec Studio Icons](https://github.com/pauliquib/svec-studio-iconpack)
+Outline SVG icon pack pro Fedoru / KDE Plasma — ~2 350 ikon na variantu, Accent verze se přebarvuje podle Plasma akcentní barvy (ColorScheme), plus pevné White a Black varianty (Python, freedesktop)
+
+<a href="https://github.com/pauliquib/svec-studio-iconpack"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-iconpack/main/screenshots/screenshots-white-on-dark.png" width="32%"></a>
+<a href="https://github.com/pauliquib/svec-studio-iconpack"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-iconpack/main/screenshots/screenshots-accent.png" width="32%"></a>
+<a href="https://github.com/pauliquib/svec-studio-iconpack"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-iconpack/main/screenshots/screenshots-black-on-light.png" width="32%"></a>
+
 ### [Stone & Clay](https://github.com/pauliquib/stone-and-clay)
 Open-world simulátor vesnice Dukelčice nad reálným katastrem — NPC dialogy, práce, dovednosti, počasí, zvěř, létání (Godot 4.3, GDScript)
 
