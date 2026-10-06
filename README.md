@@ -40,7 +40,6 @@ Command paleta ve stylu VS Code přímo v KDE panelu — živé výsledky z KRun
 
 <a href="https://github.com/pauliquib/plasma-search-bar"><img src="https://raw.githubusercontent.com/pauliquib/plasma-search-bar/master/docs/screenshots/dark-theme.png" width="49%"></a>
 <a href="https://github.com/pauliquib/plasma-search-bar"><img src="https://raw.githubusercontent.com/pauliquib/plasma-search-bar/master/docs/screenshots/light-theme.png" width="49%"></a>
-<a href="https://github.com/pauliquib/plasma-search-bar"><img src="https://raw.githubusercontent.com/pauliquib/plasma-search-bar/master/docs/screenshots/settings-modes.png" width="49%"></a>
 
 ## Privátní projekty
 
