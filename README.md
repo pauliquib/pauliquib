@@ -12,9 +12,17 @@ Sada nástrojů pro vzhled Fedory s KDE Plasma 6 v jednom repozitáři. Každá 
 - **Outline Icons** — obrysová sada ikon, varianta Accent se přebarvuje podle Plasma akcentní barvy, plus pevné White a Black (`icons/`, Python, freedesktop)
 - **Expanding Icons Task Manager** — správce úloh jen s ikonami; ikona pod kurzorem se plynule rozbalí do štítku s názvem okna a sousední ikony uhnou do stran. Je to port lišty aplikací z hlavičky svec-elektro.cz. Ikony i popisky zůstávají čitelné na jakémkoli pozadí díky kontrastnímu obrysu z vlastního shaderu (`taskbar/`, QML, GLSL, KDE Plasma 6 widget)
 
-<a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/icons"><img src="assets/thumbs/svec-studio-iconpack-screenshots-white-on-dark.webp" width="32%"></a>
-<a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/icons"><img src="assets/thumbs/svec-studio-iconpack-screenshots-accent.webp" width="32%"></a>
-<a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/taskbar"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-fedora-theme/main/taskbar/docs/screenshots/hover-label.png" width="32%"></a>
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/icons"><img src="assets/thumbs/svec-studio-iconpack-screenshots-white-on-dark.webp" width="100%" alt="Outline Icons"></a></td>
+<td width="33%" valign="top">
+<a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/taskbar"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-fedora-theme/main/taskbar/docs/screenshots/hover-label.png" width="100%" alt="Taskbar: hover label"></a><br>
+<a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/taskbar"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-fedora-theme/main/taskbar/docs/screenshots/light-background.png" width="100%" alt="Taskbar: light background"></a><br>
+<a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/taskbar"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-fedora-theme/main/taskbar/docs/screenshots/accent-color.png" width="100%" alt="Taskbar: accent colour"></a>
+</td>
+<td width="33%" valign="top"><a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/colors"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-fedora-theme/main/colors/docs/screenshots/panel-window-colours.png" width="100%" alt="Panel &amp; Window Colours"></a></td>
+</tr>
+</table>
 
 ### [Stone & Clay](https://github.com/pauliquib/stone-and-clay)
 Open-world simulátor vesnice Dukelčice nad reálným katastrem — NPC dialogy, práce, dovednosti, počasí, zvěř, létání (Godot 4.3, GDScript)
