@@ -20,6 +20,8 @@ Sada nástrojů pro vzhled Fedory s KDE Plasma 6 v jednom repozitáři. Každá 
 <a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/taskbar"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-fedora-theme/main/taskbar/docs/screenshots/hover-label.png" width="100%" alt="Taskbar: hover label"></a><br>
 <a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/taskbar"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-fedora-theme/main/taskbar/docs/screenshots/light-background.png" width="100%" alt="Taskbar: light background"></a><br>
 <a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/taskbar"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-fedora-theme/main/taskbar/docs/screenshots/accent-color.png" width="100%" alt="Taskbar: accent colour"></a>
+<a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/search-bar"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-fedora-theme/main/search-bar/docs/screenshots/dark-theme.png" width="100%" alt="Search Bar: dark theme"></a><br>
+<a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/search-bar"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-fedora-theme/main/search-bar/docs/screenshots/light-theme.png" width="100%" alt="Search Bar: light theme"></a>
 </td>
 <td width="33%" valign="top"><a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/colors"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-fedora-theme/main/colors/docs/screenshots/panel-window-colours.png" width="100%" alt="Panel &amp; Window Colours"></a></td>
 </tr>
