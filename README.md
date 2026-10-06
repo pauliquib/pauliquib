@@ -11,6 +11,7 @@ Sada nástrojů pro vzhled Fedory s KDE Plasma 6 v jednom repozitáři. Každá 
 - **Panel & Window Colours** — nativní nastavení (KCM) pro barvy panelu, záhlaví oken, okraje, stíny a uložené motivy s živým náhledem (`colors/`)
 - **Outline Icons** — obrysová sada ikon, varianta Accent se přebarvuje podle Plasma akcentní barvy, plus pevné White a Black (`icons/`, Python, freedesktop)
 - **Expanding Icons Task Manager** — správce úloh jen s ikonami; ikona pod kurzorem se plynule rozbalí do štítku s názvem okna a sousední ikony uhnou do stran. Je to port lišty aplikací z hlavičky svec-elektro.cz. Ikony i popisky zůstávají čitelné na jakémkoli pozadí díky kontrastnímu obrysu z vlastního shaderu (`taskbar/`, QML, GLSL, KDE Plasma 6 widget)
+- **Plasma Search Bar** — command palette in the KDE panel, VS Code style: live KRunner results and prefix modes (`>` terminal, `/` files, `:` system actions, `!` web, `?` help), aliases, recent items and configurable features (QML, KDE Plasma 6 widget) (`search-bar/`)
 
 <table>
 <tr>
@@ -53,12 +54,6 @@ TUI správce diagnostických, bezpečnostních a pentest nástrojů pro Fedora K
 
 <a href="https://github.com/pauliquib/Fedora-SecuriTUI"><img src="https://raw.githubusercontent.com/pauliquib/Fedora-SecuriTUI/main/docs/screenshots/fedora-stui-main.png" width="49%"></a>
 <a href="https://github.com/pauliquib/Fedora-SecuriTUI"><img src="https://raw.githubusercontent.com/pauliquib/Fedora-SecuriTUI/main/docs/screenshots/fedora-stui-recon.png" width="49%"></a>
-
-### [Search Bar](https://github.com/pauliquib/plasma-search-bar)
-Command paleta ve stylu VS Code přímo v KDE panelu — živé výsledky z KRunneru, prefixové režimy (`>` terminál s návrhy příkazů a historií, `/` soubory, `:` systémové akce, `!` web, `?` nápověda), aliasy, nedávné položky, akce u výsledků a příkazy na pozadí s notifikací; každá funkce samostatně konfigurovatelná (QML, KDE Plasma 6 widget)
-
-<a href="https://github.com/pauliquib/plasma-search-bar"><img src="https://raw.githubusercontent.com/pauliquib/plasma-search-bar/master/docs/screenshots/dark-theme.png" width="49%"></a>
-<a href="https://github.com/pauliquib/plasma-search-bar"><img src="https://raw.githubusercontent.com/pauliquib/plasma-search-bar/master/docs/screenshots/light-theme.png" width="49%"></a>
 
 ## Privátní projekty
 
