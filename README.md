@@ -5,19 +5,16 @@ Desktopové nástroje, embedded hardware a utilitky pro Linux/KDE.
 
 ## Veřejné projekty
 
-### [Svec Studio Icons](https://github.com/pauliquib/svec-studio-iconpack)
-Outline SVG icon pack pro Fedoru / KDE Plasma — ~2 350 ikon na variantu, Accent verze se přebarvuje podle Plasma akcentní barvy (ColorScheme), plus pevné White a Black varianty (Python, freedesktop)
+### [Svec Studio Fedora theme](https://github.com/pauliquib/svec-studio-fedora-theme)
+Sada nástrojů pro vzhled Fedory s KDE Plasma 6 v jednom repozitáři. Každá část je samostatná:
 
-<a href="https://github.com/pauliquib/svec-studio-iconpack"><img src="assets/thumbs/svec-studio-iconpack-screenshots-white-on-dark.webp" width="32%"></a>
-<a href="https://github.com/pauliquib/svec-studio-iconpack"><img src="assets/thumbs/svec-studio-iconpack-screenshots-accent.webp" width="32%"></a>
-<a href="https://github.com/pauliquib/svec-studio-iconpack"><img src="assets/thumbs/svec-studio-iconpack-screenshots-black-on-light.webp" width="32%"></a>
+- **Panel & Window Colours** — nativní nastavení (KCM) pro barvy panelu, záhlaví oken, okraje, stíny a uložené motivy s živým náhledem (`colors/`)
+- **Outline Icons** — obrysová sada ikon, varianta Accent se přebarvuje podle Plasma akcentní barvy, plus pevné White a Black (`icons/`, Python, freedesktop)
+- **Expanding Icons Task Manager** — správce úloh jen s ikonami; ikona pod kurzorem se plynule rozbalí do štítku s názvem okna a sousední ikony uhnou do stran. Je to port lišty aplikací z hlavičky svec-elektro.cz. Ikony i popisky zůstávají čitelné na jakémkoli pozadí díky kontrastnímu obrysu z vlastního shaderu (`taskbar/`, QML, GLSL, KDE Plasma 6 widget)
 
-### [Svec Studio Taskbar](https://github.com/pauliquib/svec-studio-taskbar)
-Správce úloh pro KDE panel jen s ikonami, bez pozadí. Ikona pod kurzorem se plynule rozbalí do štítku s názvem okna a sousední ikony uhnou do stran. Je to port lišty aplikací z hlavičky svec-elektro.cz. Ikony i popisky zůstávají čitelné na jakémkoli pozadí díky kontrastnímu obrysu z vlastního shaderu, podobně jako popisky ikon na ploše. Umí vše jako oficiální správce úloh: živé náhledy oken, indikátor zvuku se ztlumením, seskupování, řazení přetažením, Meta+1…9. Pozadí panelu umí skrýt a všechno je podrobně nastavitelné (QML, GLSL, KDE Plasma 6 widget)
-
-<a href="https://github.com/pauliquib/svec-studio-taskbar"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-taskbar/main/docs/screenshots/hover-label.png" width="32%"></a>
-<a href="https://github.com/pauliquib/svec-studio-taskbar"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-taskbar/main/docs/screenshots/light-background.png" width="32%"></a>
-<a href="https://github.com/pauliquib/svec-studio-taskbar"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-taskbar/main/docs/screenshots/accent-color.png" width="32%"></a>
+<a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/icons"><img src="assets/thumbs/svec-studio-iconpack-screenshots-white-on-dark.webp" width="32%"></a>
+<a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/icons"><img src="assets/thumbs/svec-studio-iconpack-screenshots-accent.webp" width="32%"></a>
+<a href="https://github.com/pauliquib/svec-studio-fedora-theme/tree/main/taskbar"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-fedora-theme/main/taskbar/docs/screenshots/hover-label.png" width="32%"></a>
 
 ### [Stone & Clay](https://github.com/pauliquib/stone-and-clay)
 Open-world simulátor vesnice Dukelčice nad reálným katastrem — NPC dialogy, práce, dovednosti, počasí, zvěř, létání (Godot 4.3, GDScript)
