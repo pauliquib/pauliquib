@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Regenerate assets/projects/languages-all.png — stacked language bar + legend (English labels).
+"""Regenerate assets/projects/languages-en.png — stacked language bar + legend (English labels).
 Data: gh api repos/pauliquib/<repo>/languages (bajty dle GitHub Linguist)."""
 import json, os, subprocess
 import matplotlib
@@ -12,7 +12,7 @@ REPOS = ["stone-and-clay","HardCoreMode","infoflowlab","Vlnky","Fedora-SecuriTUI
          "svec-studio-fedora-theme","k3x020-nucleo","svec-studio","PRE2MULTI","sencurio-developer"]
 OWNER = "pauliquib"
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUT = os.path.join(REPO_ROOT, "assets", "projects", "languages-all.png")
+OUT = os.path.join(REPO_ROOT, "assets", "projects", "languages-en.png")
 
 # palette taken from the original chart (custom, not plain Linguist)
 COLORS = {
