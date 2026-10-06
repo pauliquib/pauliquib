@@ -8,9 +8,9 @@ Desktopové nástroje, embedded hardware a utilitky pro Linux/KDE.
 ### [Svec Studio Icons](https://github.com/pauliquib/svec-studio-iconpack)
 Outline SVG icon pack pro Fedoru / KDE Plasma — ~2 350 ikon na variantu, Accent verze se přebarvuje podle Plasma akcentní barvy (ColorScheme), plus pevné White a Black varianty (Python, freedesktop)
 
-<a href="https://github.com/pauliquib/svec-studio-iconpack"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-iconpack/main/screenshots/screenshots-white-on-dark.png" width="32%"></a>
-<a href="https://github.com/pauliquib/svec-studio-iconpack"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-iconpack/main/screenshots/screenshots-accent.png" width="32%"></a>
-<a href="https://github.com/pauliquib/svec-studio-iconpack"><img src="https://raw.githubusercontent.com/pauliquib/svec-studio-iconpack/main/screenshots/screenshots-black-on-light.png" width="32%"></a>
+<a href="https://github.com/pauliquib/svec-studio-iconpack"><img src="assets/thumbs/svec-studio-iconpack-screenshots-white-on-dark.webp" width="32%"></a>
+<a href="https://github.com/pauliquib/svec-studio-iconpack"><img src="assets/thumbs/svec-studio-iconpack-screenshots-accent.webp" width="32%"></a>
+<a href="https://github.com/pauliquib/svec-studio-iconpack"><img src="assets/thumbs/svec-studio-iconpack-screenshots-black-on-light.webp" width="32%"></a>
 
 ### [Svec Studio Taskbar](https://github.com/pauliquib/svec-studio-taskbar)
 Správce úloh pro KDE panel jen s ikonami, bez pozadí. Ikona pod kurzorem se plynule rozbalí do štítku s názvem okna a sousední ikony uhnou do stran. Je to port lišty aplikací z hlavičky svec-elektro.cz. Ikony i popisky zůstávají čitelné na jakémkoli pozadí díky kontrastnímu obrysu z vlastního shaderu, podobně jako popisky ikon na ploše. Umí vše jako oficiální správce úloh: živé náhledy oken, indikátor zvuku se ztlumením, seskupování, řazení přetažením, Meta+1…9. Pozadí panelu umí skrýt a všechno je podrobně nastavitelné (QML, GLSL, KDE Plasma 6 widget)
@@ -22,8 +22,8 @@ Správce úloh pro KDE panel jen s ikonami, bez pozadí. Ikona pod kurzorem se p
 ### [Stone & Clay](https://github.com/pauliquib/stone-and-clay)
 Open-world simulátor vesnice Dukelčice nad reálným katastrem — NPC dialogy, práce, dovednosti, počasí, zvěř, létání (Godot 4.3, GDScript)
 
-<a href="https://github.com/pauliquib/stone-and-clay"><img src="https://raw.githubusercontent.com/pauliquib/stone-and-clay/main/docs/screenshots/dron-ves.png" width="49%"></a>
-<a href="https://github.com/pauliquib/stone-and-clay"><img src="https://raw.githubusercontent.com/pauliquib/stone-and-clay/main/docs/screenshots/javor-kyvacka.png" width="49%"></a>
+<a href="https://github.com/pauliquib/stone-and-clay"><img src="assets/thumbs/stone-and-clay-dron-ves.webp" width="49%"></a>
+<a href="https://github.com/pauliquib/stone-and-clay"><img src="assets/thumbs/stone-and-clay-javor-kyvacka.webp" width="49%"></a>
 
 ### [HardCore Mode](https://github.com/pauliquib/HardCoreMode)
 Plošinovková hra běžící čistě v prohlížeči (vanilla JS, Canvas, Web Audio API), vlastní editor map
@@ -35,7 +35,7 @@ Plošinovková hra běžící čistě v prohlížeči (vanilla JS, Canvas, Web A
 ### [InfoFlowLab](https://github.com/pauliquib/infoflowlab)
 Interaktivní simulátor komprese a komunikace — vizuální editor uzlů se simulací toku dat v reálném čase (Python, PySide6)
 
-<a href="https://github.com/pauliquib/infoflowlab"><img src="https://raw.githubusercontent.com/pauliquib/infoflowlab/main/docs/screenshot.png" width="70%"></a>
+<a href="https://github.com/pauliquib/infoflowlab"><img src="assets/thumbs/infoflowlab-screenshot.webp" width="70%"></a>
 
 ### [Vlnky](https://github.com/pauliquib/Vlnky)
 KDE Plasma 6 wallpaper renderující animované PSP XMB vlny z `system_plugin_bg.rco` souborů (C++, Vulkan/OpenGL RHI)
@@ -64,25 +64,25 @@ Stručný přehled bez citlivých detailů (bez credentials, interních IP adres
 Monorepo pro asistované bydlení a bezpečnostní přehled v domácnosti (AAL / smart home): mmWave radar + ESP32-S3 edge zařízení, Laravel backend, Next.js dashboard, Expo mobilní app a PySide6 desktop monitor. *Není značkováno jako zdravotnický prostředek.*
 `PHP/Laravel` `TypeScript/Next.js` `Python/PySide6` `ESP-IDF` `MQTT`
 
-<img src="assets/projects/sencurio-device-exploded.png" width="49%"> <img src="assets/projects/sencurio-floorplan3d-dark.png" width="49%">
+<img src="assets/thumbs/sencurio-device-exploded.webp" width="49%"> <img src="assets/thumbs/sencurio-floorplan3d-dark.webp" width="49%">
 
 ### Svec Studio
 Desktopové GUI/TUI pracovní prostředí pro Fedoru: kiosk shell (Wayland), plugin API, lokální AI agent, správa statického webu svec-elektro.cz. Nástroj pro vlastní denní provoz, ne produkt pro distribuci.
 `Python` `PySide6/Qt` `JavaScript` `Rust`
 
-<img src="assets/projects/svec-studio-splash.png" width="24%"> <img src="assets/projects/svec-studio-desktop.png" width="24%"> <img src="assets/projects/svec-studio-tui-os.png" width="24%"> <img src="assets/projects/svec-studio-pdf-viewer.png" width="24%">
+<img src="assets/thumbs/svec-studio-splash.webp" width="24%"> <img src="assets/thumbs/svec-studio-desktop.webp" width="24%"> <img src="assets/thumbs/svec-studio-tui-os.webp" width="24%"> <img src="assets/thumbs/svec-studio-pdf-viewer.webp" width="24%">
 
 ### PRE2MULTI
 Nezávislý multiplayer engine (Godot 4) nad fyzikou klasické DOS plošinovky, LAN deathmatch pro 2–4 hráče. *BYOG (Bring Your Own Game)* — repozitář neobsahuje originální herní assety.
 `GDScript` `Python`
 
-<img src="assets/projects/pre2multi-arena.png" width="70%">
+<img src="assets/thumbs/pre2multi-arena.webp" width="70%">
 
 ### K3X020 Nucleo
 STM32 Nucleo-H753ZI jako náhradní řídicí jednotka průmyslové 24V I/O desky — reverse engineering hardwaru pro vlastní dílnu, dokumentace svorek a RE nálezů.
 `C` `STM32 HAL`
 
-<img src="assets/projects/k3x020-pcb-horni.jpg" width="49%"> <img src="assets/projects/k3x020-pcb-spodni.jpg" width="49%">
+<img src="assets/thumbs/k3x020-pcb-horni.webp" width="49%"> <img src="assets/thumbs/k3x020-pcb-spodni.webp" width="49%">
 
 ## Jazyky
 
