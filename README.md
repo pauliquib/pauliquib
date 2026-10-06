@@ -36,10 +36,11 @@ TUI správce diagnostických, bezpečnostních a pentest nástrojů pro Fedora K
 <a href="https://github.com/pauliquib/Fedora-SecuriTUI"><img src="https://raw.githubusercontent.com/pauliquib/Fedora-SecuriTUI/main/docs/screenshots/fedora-stui-recon.png" width="49%"></a>
 
 ### [Search Bar](https://github.com/pauliquib/plasma-search-bar)
-Vyhledávací a příkazové pole přímo v KDE panelu — command paleta ve stylu VS Code, živé výsledky z KRunneru (QML, KDE Plasma 6 widget)
+Command paleta ve stylu VS Code přímo v KDE panelu — živé výsledky z KRunneru, prefixové režimy (`>` terminál s návrhy příkazů a historií, `/` soubory, `:` systémové akce, `!` web, `?` nápověda), aliasy, nedávné položky, akce u výsledků a příkazy na pozadí s notifikací; každá funkce samostatně konfigurovatelná (QML, KDE Plasma 6 widget)
 
 <a href="https://github.com/pauliquib/plasma-search-bar"><img src="https://raw.githubusercontent.com/pauliquib/plasma-search-bar/master/docs/screenshots/dark-theme.png" width="49%"></a>
 <a href="https://github.com/pauliquib/plasma-search-bar"><img src="https://raw.githubusercontent.com/pauliquib/plasma-search-bar/master/docs/screenshots/light-theme.png" width="49%"></a>
+<a href="https://github.com/pauliquib/plasma-search-bar"><img src="https://raw.githubusercontent.com/pauliquib/plasma-search-bar/master/docs/screenshots/settings-modes.png" width="49%"></a>
 
 ## Privátní projekty
 
