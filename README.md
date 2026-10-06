@@ -1,17 +1,16 @@
 # Pavel Švec
 
-Desktopové nástroje, embedded hardware a utilitky pro Linux/KDE.
-*Desktop tools, embedded hardware and Linux/KDE utilities — mostly in Czech.*
+Desktop tools, embedded hardware and utilities for Linux/KDE.
 
-## Veřejné projekty
+## Public projects
 
 ### [Svec Studio Fedora theme](https://github.com/pauliquib/svec-studio-fedora-theme)
-Sada nástrojů pro vzhled Fedory s KDE Plasma 6 v jednom repozitáři. Každá část je samostatná:
+A set of tools for the look of Fedora with KDE Plasma 6, in one repository. Each part is standalone:
 
-- **Panel & Window Colours** — nativní nastavení (KCM) pro barvy panelu, záhlaví oken, okraje, stíny a uložené motivy s živým náhledem (`colors/`)
-- **Outline Icons** — obrysová sada ikon, varianta Accent se přebarvuje podle Plasma akcentní barvy, plus pevné White a Black (`icons/`, Python, freedesktop)
-- **Expanding Icons Task Manager** — správce úloh jen s ikonami; ikona pod kurzorem se plynule rozbalí do štítku s názvem okna a sousední ikony uhnou do stran. Je to port lišty aplikací z hlavičky svec-elektro.cz. Ikony i popisky zůstávají čitelné na jakémkoli pozadí díky kontrastnímu obrysu z vlastního shaderu (`taskbar/`, QML, GLSL, KDE Plasma 6 widget)
-- **Plasma Search Bar** — command palette in the KDE panel, VS Code style: live KRunner results and prefix modes (`>` terminal, `/` files, `:` system actions, `!` web, `?` help), aliases, recent items and configurable features (QML, KDE Plasma 6 widget) (`search-bar/`)
+- **Panel & Window Colours** — a native settings module (KCM) for panel, title bar, border and shadow colours, plus saved themes with a live preview (`colors/`)
+- **Outline Icons** — an outline icon set; the Accent variant follows the Plasma accent colour, plus fixed White and Black (`icons/`, Python, freedesktop)
+- **Expanding Icons Task Manager** — an icon-only task manager; the icon under the cursor smoothly expands into a label with the window title and neighbouring icons move aside. It is a port of the app rail from the svec-elektro.cz header. Icons and labels stay readable on any background thanks to a contrast outline from a custom shader (`taskbar/`, QML, GLSL, KDE Plasma 6 widget)
+- **Plasma Search Bar** — a VS Code–style command palette in the KDE panel: live KRunner results and prefix modes (`>` terminal, `/` files, `:` system actions, `!` web, `?` help), aliases, recent items and configurable features (QML, KDE Plasma 6 widget) (`search-bar/`)
 
 <table>
 <tr>
@@ -28,71 +27,71 @@ Sada nástrojů pro vzhled Fedory s KDE Plasma 6 v jednom repozitáři. Každá 
 </table>
 
 ### [Stone & Clay](https://github.com/pauliquib/stone-and-clay)
-Open-world simulátor vesnice Dukelčice nad reálným katastrem — NPC dialogy, práce, dovednosti, počasí, zvěř, létání (Godot 4.3, GDScript)
+An open-world simulator of the village of Dukelčice on a real cadastral map — NPC dialogue, work, skills, weather, wildlife, flying (Godot 4.3, GDScript)
 
 <a href="https://github.com/pauliquib/stone-and-clay"><img src="assets/thumbs/stone-and-clay-dron-ves.webp" width="49%"></a>
 <a href="https://github.com/pauliquib/stone-and-clay"><img src="assets/thumbs/stone-and-clay-javor-kyvacka.webp" width="49%"></a>
 
 ### [HardCore Mode](https://github.com/pauliquib/HardCoreMode)
-Plošinovková hra běžící čistě v prohlížeči (vanilla JS, Canvas, Web Audio API), vlastní editor map
+A platformer that runs entirely in the browser (vanilla JS, Canvas, Web Audio API), with its own map editor
 
 <a href="https://github.com/pauliquib/HardCoreMode"><img src="https://raw.githubusercontent.com/pauliquib/HardCoreMode/main/docs/screenshots/game.jpg" width="32%"></a>
 <a href="https://github.com/pauliquib/HardCoreMode"><img src="https://raw.githubusercontent.com/pauliquib/HardCoreMode/main/docs/screenshots/sectors.jpg" width="32%"></a>
 <a href="https://github.com/pauliquib/HardCoreMode"><img src="https://raw.githubusercontent.com/pauliquib/HardCoreMode/main/docs/screenshots/editor.jpg" width="32%"></a>
 
 ### [InfoFlowLab](https://github.com/pauliquib/infoflowlab)
-Interaktivní simulátor komprese a komunikace — vizuální editor uzlů se simulací toku dat v reálném čase (Python, PySide6)
+An interactive compression and communication simulator — a visual node editor with real-time data-flow simulation (Python, PySide6)
 
 <a href="https://github.com/pauliquib/infoflowlab"><img src="assets/thumbs/infoflowlab-screenshot.webp" width="70%"></a>
 
 ### [Vlnky](https://github.com/pauliquib/Vlnky)
-KDE Plasma 6 wallpaper renderující animované PSP XMB vlny z `system_plugin_bg.rco` souborů (C++, Vulkan/OpenGL RHI)
+A KDE Plasma 6 wallpaper that renders the animated PSP XMB waves from `system_plugin_bg.rco` files (C++, Vulkan/OpenGL RHI)
 
 <a href="https://github.com/pauliquib/Vlnky"><img src="https://raw.githubusercontent.com/pauliquib/Vlnky/main/docs/screenshots/vlna-ps2.jpg" width="49%"></a>
 <a href="https://github.com/pauliquib/Vlnky"><img src="https://raw.githubusercontent.com/pauliquib/Vlnky/main/docs/screenshots/vlna-sony.jpg" width="49%"></a>
 
 ### [Fedora-SecuriTUI](https://github.com/pauliquib/Fedora-SecuriTUI)
-TUI správce diagnostických, bezpečnostních a pentest nástrojů pro Fedora KDE (bash, whiptail/dialog)
+A TUI manager for diagnostic, security and pentest tools on Fedora KDE (bash, whiptail/dialog)
 
 <a href="https://github.com/pauliquib/Fedora-SecuriTUI"><img src="https://raw.githubusercontent.com/pauliquib/Fedora-SecuriTUI/main/docs/screenshots/fedora-stui-main.png" width="49%"></a>
 <a href="https://github.com/pauliquib/Fedora-SecuriTUI"><img src="https://raw.githubusercontent.com/pauliquib/Fedora-SecuriTUI/main/docs/screenshots/fedora-stui-recon.png" width="49%"></a>
 
-## Privátní projekty
+## Private projects
 
-Interní / neveřejné repozitáře — kód, konfigurace a interní dokumentace zůstávají soukromé.
-Stručný přehled bez citlivých detailů (bez credentials, interních IP adres, zákaznických dat apod.):
+Internal / non-public repositories — code, configuration and internal documentation stay private.
+A short overview without sensitive details (no credentials, internal IP addresses, customer data, etc.):
 
 ### Sencurio
-Monorepo pro asistované bydlení a bezpečnostní přehled v domácnosti (AAL / smart home): mmWave radar + ESP32-S3 edge zařízení, Laravel backend, Next.js dashboard, Expo mobilní app a PySide6 desktop monitor. *Není značkováno jako zdravotnický prostředek.*
+A monorepo for assisted living and home safety monitoring (AAL / smart home): mmWave radar + ESP32-S3 edge devices, a Laravel backend, a Next.js dashboard, an Expo mobile app and a PySide6 desktop monitor. *Not labelled as a medical device.*
 `PHP/Laravel` `TypeScript/Next.js` `Python/PySide6` `ESP-IDF` `MQTT`
 
 <img src="assets/thumbs/sencurio-device-exploded.webp" width="49%"> <img src="assets/thumbs/sencurio-floorplan3d-dark.webp" width="49%">
 
 ### Svec Studio
-Desktopové GUI/TUI pracovní prostředí pro Fedoru: kiosk shell (Wayland), plugin API, lokální AI agent, správa statického webu svec-elektro.cz. Nástroj pro vlastní denní provoz, ne produkt pro distribuci.
+A desktop GUI/TUI work environment for Fedora: a kiosk shell (Wayland), a plugin API, a local AI agent and management of the static svec-elektro.cz website. A tool for my own daily use, not a product for distribution.
 `Python` `PySide6/Qt` `JavaScript` `Rust`
 
 <img src="assets/thumbs/svec-studio-splash.webp" width="24%"> <img src="assets/thumbs/svec-studio-desktop.webp" width="24%"> <img src="assets/thumbs/svec-studio-tui-os.webp" width="24%"> <img src="assets/thumbs/svec-studio-pdf-viewer.webp" width="24%">
 
 ### PRE2MULTI
-Nezávislý multiplayer engine (Godot 4) nad fyzikou klasické DOS plošinovky, LAN deathmatch pro 2–4 hráče. *BYOG (Bring Your Own Game)* — repozitář neobsahuje originální herní assety.
+An independent multiplayer engine (Godot 4) built on the physics of a classic DOS platformer, with a LAN deathmatch for 2–4 players. *BYOG (Bring Your Own Game)* — the repository contains no original game assets.
 `GDScript` `Python`
 
 <img src="assets/thumbs/pre2multi-arena.webp" width="70%">
 
 ### K3X020 Nucleo
-STM32 Nucleo-H753ZI jako náhradní řídicí jednotka průmyslové 24V I/O desky — reverse engineering hardwaru pro vlastní dílnu, dokumentace svorek a RE nálezů.
+An STM32 Nucleo-H753ZI as a replacement controller for an industrial 24 V I/O board — hardware reverse engineering for my own workshop, with terminal documentation and RE findings.
 `C` `STM32 HAL`
 
 <img src="assets/thumbs/k3x020-pcb-horni.webp" width="49%"> <img src="assets/thumbs/k3x020-pcb-spodni.webp" width="49%">
 
 ## Jazyky
 
-Souhrn přes **všechny** repozitáře, veřejné i privátní (`stone-and-clay`, `HardCoreMode`, `infoflowlab`, `Vlnky`, `Fedora-SecuriTUI`, `plasma-search-bar`, `k3x020-nucleo`, `svec-studio`, `PRE2MULTI`, `sencurio-developer`) podle bajtů kódu dle GitHubu — žádný obsah souborů. Vendor knihovny a third-party addony (STM32 HAL/CMSIS, ESP-IDF managed components, Godot addony, Three.js/floorplan3d JS knihovny) jsem vyřadil pomocí `.gitattributes` (`linguist-vendored`), ať graf odpovídá skutečně napsanému kódu, ne nalinkovaným SDK a pluginům:
+A summary across **all** repositories, public and private (`stone-and-clay`, `HardCoreMode`, `infoflowlab`, `Vlnky`, `Fedora-SecuriTUI`, `plasma-search-bar`, `k3x020-nucleo`, `svec-studio`, `PRE2MULTI`, `sencurio-developer`), by bytes of code as counted by GitHub — no file contents are used. I excluded vendor libraries and third-party add-ons (STM32 HAL/CMSIS, ESP-IDF managed components, Godot add-ons, Three.js/floorplan3d JS libraries) with `.gitattributes` (`linguist-vendored`), so the graph reflects the code I wrote, not the SDKs and plugins I linked:
 
-![Jazyky — veřejné i privátní](assets/projects/languages-all.png)
+![Languages — public and private](assets/projects/languages-all.png)
 
-## Technologie
+## Technologies
 
 `Python` `JavaScript / TypeScript` `Rust` `PySide6 / Qt` `C++` `GDScript` `Bash` `STM32 / ESP32` `Godot` `Laravel` `Next.js`
 
