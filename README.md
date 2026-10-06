@@ -85,7 +85,7 @@ An STM32 Nucleo-H753ZI as a replacement controller for an industrial 24 V I/O bo
 
 <img src="assets/thumbs/k3x020-pcb-horni.webp" width="49%"> <img src="assets/thumbs/k3x020-pcb-spodni.webp" width="49%">
 
-## Jazyky
+## Languages
 
 A summary across **all** repositories, public and private (`stone-and-clay`, `HardCoreMode`, `infoflowlab`, `Vlnky`, `Fedora-SecuriTUI`, `svec-studio-fedora-theme`, `k3x020-nucleo`, `svec-studio`, `PRE2MULTI`, `sencurio-developer`), by bytes of code as counted by GitHub — no file contents are used. I excluded vendor libraries and third-party add-ons (STM32 HAL/CMSIS, ESP-IDF managed components, Godot add-ons, Three.js/floorplan3d JS libraries) with `.gitattributes` (`linguist-vendored`), so the graph reflects the code I wrote, not the SDKs and plugins I linked:
 
