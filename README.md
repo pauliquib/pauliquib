@@ -35,6 +35,12 @@ TUI správce diagnostických, bezpečnostních a pentest nástrojů pro Fedora K
 <a href="https://github.com/pauliquib/Fedora-SecuriTUI"><img src="https://raw.githubusercontent.com/pauliquib/Fedora-SecuriTUI/main/docs/screenshots/fedora-stui-main.png" width="49%"></a>
 <a href="https://github.com/pauliquib/Fedora-SecuriTUI"><img src="https://raw.githubusercontent.com/pauliquib/Fedora-SecuriTUI/main/docs/screenshots/fedora-stui-recon.png" width="49%"></a>
 
+### [Search Bar](https://github.com/pauliquib/plasma-search-bar)
+Vyhledávací a příkazové pole přímo v KDE panelu — command paleta ve stylu VS Code, živé výsledky z KRunneru (QML, KDE Plasma 6 widget)
+
+<a href="https://github.com/pauliquib/plasma-search-bar"><img src="https://raw.githubusercontent.com/pauliquib/plasma-search-bar/master/docs/screenshots/dark-theme.png" width="49%"></a>
+<a href="https://github.com/pauliquib/plasma-search-bar"><img src="https://raw.githubusercontent.com/pauliquib/plasma-search-bar/master/docs/screenshots/light-theme.png" width="49%"></a>
+
 ## Privátní projekty
 
 Interní / neveřejné repozitáře — kód, konfigurace a interní dokumentace zůstávají soukromé.
@@ -66,7 +72,7 @@ STM32 Nucleo-H753ZI jako náhradní řídicí jednotka průmyslové 24V I/O desk
 
 ## Jazyky
 
-Souhrn přes **všechny** repozitáře, veřejné i privátní (`stone-and-clay`, `HardCoreMode`, `infoflowlab`, `Vlnky`, `Fedora-SecuriTUI`, `k3x020-nucleo`, `svec-studio`, `PRE2MULTI`, `sencurio-developer`) podle bajtů kódu dle GitHubu — žádný obsah souborů. Vendor knihovny a third-party addony (STM32 HAL/CMSIS, ESP-IDF managed components, Godot addony, Three.js/floorplan3d JS knihovny) jsem vyřadil pomocí `.gitattributes` (`linguist-vendored`), ať graf odpovídá skutečně napsanému kódu, ne nalinkovaným SDK a pluginům:
+Souhrn přes **všechny** repozitáře, veřejné i privátní (`stone-and-clay`, `HardCoreMode`, `infoflowlab`, `Vlnky`, `Fedora-SecuriTUI`, `plasma-search-bar`, `k3x020-nucleo`, `svec-studio`, `PRE2MULTI`, `sencurio-developer`) podle bajtů kódu dle GitHubu — žádný obsah souborů. Vendor knihovny a third-party addony (STM32 HAL/CMSIS, ESP-IDF managed components, Godot addony, Three.js/floorplan3d JS knihovny) jsem vyřadil pomocí `.gitattributes` (`linguist-vendored`), ať graf odpovídá skutečně napsanému kódu, ne nalinkovaným SDK a pluginům:
 
 ![Jazyky — veřejné i privátní](assets/projects/languages-all.png)
 
