@@ -2,6 +2,10 @@
 
 Desktop tools, embedded hardware and utilities for Linux/KDE.
 
+<a href="https://youtu.be/tI5h5DCcbLw"><img src="assets/thumbs/sencurio-lite-video.webp" width="100%" alt="Sencurio LITE 1.0 — watch the video on YouTube"></a>
+
+▶ **[Sencurio LITE 1.0 — a smart home-safety sensor without a camera](https://youtu.be/tI5h5DCcbLw)** — a first look at the device from my [Sencurio](#sencurio) project: it knows when someone is home without using a camera, monitors temperature, humidity and air quality, alerts by voice and over Wi-Fi, and runs from the mains with a backup battery. *(Video in Czech)*
+
 ## Public projects
 
 ### Schematic, Footprints & 3D Models
