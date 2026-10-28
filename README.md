@@ -42,7 +42,7 @@ A set of tools for the look of Fedora with KDE Plasma 6, in one repository. Each
 An open-world simulator of the village of Dukelčice on a real cadastral map — NPC dialogue, work, skills, weather, wildlife, flying (Godot 4.3, GDScript)
 
 <a href="https://github.com/pauliquib/stone-and-clay"><img src="assets/thumbs/stone-and-clay-dron-ves.webp" width="49%"></a>
-<a href="https://github.com/pauliquib/stone-and-clay"><img src="assets/thumbs/stone-and-clay-javor-kyvacka.webp" width="49%"></a>
+<a href="https://github.com/pauliquib/stone-and-clay"><img src="assets/thumbs/stone-and-clay-navs-den.webp" width="49%"></a>
 
 ### [HardCore Mode](https://github.com/pauliquib/HardCoreMode)
 A platformer that runs entirely in the browser (vanilla JS, Canvas, Web Audio API), with its own map editor
