@@ -14,7 +14,7 @@ KiCad schematic symbols, footprints and STEP 3D models for parts without ready-m
 - **[ESP32-S31-WROOM-3 — STEP 3D model](https://github.com/pauliquib/ESP32-S31-WROOM-3-STEP-3D_MODEL)** — a detailed STEP model of the Espressif ESP32-S31-WROOM-3 module
 - **[IWRL6432WMOD — KiCad symbol & footprint](https://github.com/pauliquib/IWRL6432WMOD-KiCad-Symbol-Footprint)** — schematic symbol and footprint for the TI IWRL6432WMOD 60 GHz mmWave radar module
 
-<img src="assets/thumbs/esp32-s31-wroom-3-front.webp" height="220" alt=""><img src="assets/thumbs/esp32-s31-wroom-3-back.webp" height="220" alt=""> <img src="assets/thumbs/iwrl6432wmod-footprint.webp" height="220" alt="">
+<img src="assets/thumbs/esp32-s31-wroom-3-front.webp" height="190" alt=""><img src="assets/thumbs/esp32-s31-wroom-3-back.webp" height="190" alt=""> <img src="assets/thumbs/iwrl6432wmod-antennas.webp" height="190" alt="">
 
 ### [Svec Studio Fedora theme](https://github.com/pauliquib/svec-studio-fedora-theme)
 A set of tools for the look of Fedora with KDE Plasma 6, in one repository. Each part is standalone:
