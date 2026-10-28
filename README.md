@@ -89,7 +89,7 @@ A desktop GUI/TUI work environment for Fedora: a kiosk shell (Wayland), a plugin
 An independent multiplayer engine (Godot 4) built on the physics of a classic DOS platformer, with a LAN deathmatch for 2–4 players. *BYOG (Bring Your Own Game)* — the repository contains no original game assets.
 `GDScript` `Python`
 
-<img src="assets/thumbs/pre2multi-arena.webp" width="70%">
+<img src="assets/thumbs/pre2multi-main-menu.webp" width="49%"> <img src="assets/thumbs/pre2multi-level-editor.webp" width="49%">
 
 ### K3X020 Nucleo
 An STM32 Nucleo-H753ZI as a replacement controller for an industrial 24 V I/O board — hardware reverse engineering for my own workshop, with terminal documentation and RE findings.
